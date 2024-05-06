@@ -1,0 +1,9 @@
+canvas {
+    background-color: teal;
+    width:100%;
+}
+
+body {
+    text-align: center;
+    position: relative;
+}
